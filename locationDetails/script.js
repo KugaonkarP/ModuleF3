@@ -2,7 +2,7 @@ let latitude;
 let longitude;
 const cookie = document.cookie.split('=');
 const ip = cookie[1];
-const token = "6c57e87a357800";
+const token = "e0f8ecdb0044f1";
 const ipText = document.getElementById("currentIP");
 let postOffices 
 console.log(ip)
